@@ -1,0 +1,11 @@
+com/cartel/fastlogin/builders/eventBuilder.class
+com/cartel/fastlogin/commands/OtogirisCommand.class
+com/cartel/fastlogin/handlers/commandHandler.class
+com/cartel/fastlogin/config/mainConfig.class
+com/cartel/fastlogin/events/OtogirisEvent.class
+com/cartel/fastlogin/handlers/eventHandler.class
+com/cartel/fastlogin/builders/commandBuilder.class
+com/cartel/fastlogin/config/stringConfig.class
+com/cartel/fastlogin/database/playerData.class
+com/cartel/fastlogin/database/fastLoginData.class
+com/cartel/fastlogin/core.class

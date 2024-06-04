@@ -1,0 +1,5 @@
+otomatik_giris_kapali: "&cOtomatik giriş kapalı, lütfen /login komutuyla giriş yapınız."
+otomatik_giris_acik: "&aOtomatik giriş modu açıldı. Artık bu cihazdan bu hesaba şifresiz giriş yapabilirsiniz."
+otomatik_giris_kapatildi: "&aOtomatik giriş modu kapatıldı."
+otomatik_giris_aktif: "&cOtomatik giriş modu zaten aktif durumda."
+otomatik_giris_basarili: "&aOtomatik giriş ile girdiniz."

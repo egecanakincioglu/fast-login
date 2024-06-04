@@ -1,0 +1,12 @@
+name: CartelFastLogin
+version: 1.0.0
+main: com.cartel.fastlogin.core
+api-version: 1.18
+author: Cartel
+description: A plugin for enabling automatic login and managing player authentication.
+depend: [AuthMe]
+commands:
+  otogiris:
+    description: Toggle automatic login system on/off.
+    usage: /otogiris
+    permission: cartelfastlogin.otogiris
