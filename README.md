@@ -1,4 +1,4 @@
-# ⚙️ CartelFastLogin: AuthMe Integrated Fast Login Plugin for Java Minecraft
+# ⚙️ FastLogin: AuthMe Integrated Fast Login Plugin for Java Minecraft
 
 ## 🚀 What is the Fast Login Plugin?
 
